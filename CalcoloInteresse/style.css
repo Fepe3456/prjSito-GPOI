@@ -17,18 +17,18 @@ footer {
 
 .logo{
     position: fixed;
-    bottom:0;
-    right: 0;
-    background-color: black;
+    margin-top: auto;
+    left: 0;
+    margin-bottom: auto;
     text-decoration: none;
-    color: white;
-    padding: 15px;
     border-radius: 12px;
     margin: 30px;
 }
+
+
 .title-container{
+    display: flexbox;
     width: 100%; 
-    text-align: center;
     background-color: lightslategrey;
     color: black;
     border-radius: 30px;
