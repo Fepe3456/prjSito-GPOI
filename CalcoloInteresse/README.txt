@@ -1,1 +1,1 @@
-Gruppo GLSF
+Gruppo GLSF - Fontana Giorgia, Montibeller Luca, Mosaner Samuel, Pedretti Federico
