@@ -1,1 +1,15 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2 em;
+    background-color: ;
+    color: ;
+}
 
+
+footer {
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
