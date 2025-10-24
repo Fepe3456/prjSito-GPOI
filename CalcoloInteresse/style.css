@@ -1,8 +1,8 @@
 body{
     font-family: "Times New Roman", Times, serif;
     font-size: 1.2 em;
-    background-color: ;
-    color: ;
+    background-color:;
+    color:;
 }
 
 
@@ -12,4 +12,17 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+
+.logo{
+    position: fixed;
+    bottom:0;
+    right: 0;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    margin: 30px;
 }
